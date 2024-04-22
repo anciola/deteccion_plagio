@@ -1,0 +1,60 @@
+
+FID-01.txt
+###################
+candidato encontrado: org-076.txt
+distancia coseno: 0.2884829085307915
+distancia jac: 0.9824561403508771
+
+FID-02.txt
+###################
+candidato encontrado: org-104.txt
+distancia coseno: 0.37464181683357134
+distancia jac: 0.9838709677419355
+
+FID-03.txt
+###################
+candidato encontrado: org-016.txt
+distancia coseno: 1.1102230246251565e-16
+distancia jac: 0.0
+
+FID-04.txt
+###################
+candidato encontrado: org-045.txt
+distancia coseno: -2.220446049250313e-16
+distancia jac: 0.0
+
+FID-05.txt
+###################
+candidato encontrado: org-085.txt
+distancia coseno: 0.05794794426052541
+distancia jac: 0.9833333333333333
+
+FID-06.txt
+###################
+candidato encontrado: org-043.txt
+distancia coseno: 0.26130788819259565
+distancia jac: 0.9791666666666666
+
+FID-07.txt
+###################
+candidato encontrado: org-041.txt
+distancia coseno: 0.20174507862178948
+distancia jac: 0.9846153846153847
+
+FID-08.txt
+###################
+candidato encontrado: org-079.txt
+distancia coseno: 0.08995029555482026
+distancia jac: 0.9866666666666667
+
+FID-09.txt
+###################
+candidato encontrado: org-109.txt
+distancia coseno: 0.10214527935064477
+distancia jac: 0.9857142857142858
+
+FID-10.txt
+###################
+candidato encontrado: org-007.txt
+distancia coseno: 0.26831872563702075
+distancia jac: 0.9859154929577465
