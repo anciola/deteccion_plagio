@@ -47,7 +47,7 @@ textos_originales = [open(File, errors="ignore").read() for File in archivos_ori
 #         print(archivos_originales[int(i)])
 
 os.chdir("..")
-os.chdir("PLAGIADOS")
+os.chdir("FinalTest")
 archivos_plagiados = [doc for doc in os.listdir() if doc.endswith(f'.txt')]
 textos_plagiados = [open(File, errors="ignore").read() for File in archivos_plagiados]
 os.chdir("..")
@@ -125,7 +125,7 @@ def similitud_jac(text1,text2):
 
 # f = open("reporte_2.txt", "a")
 n=0
-for j in range(110,120):
+for j in range(110,140):
     for i in range(0,109):
 
         s_cos = similitud_cos(vectores[i],vectores[j])
